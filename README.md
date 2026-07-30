@@ -1,4 +1,4 @@
-# 🌸 Flower Federated Learning with ALBERT
+# Flwr Federated Learning with ALBERT
 
 A federated learning implementation using Flower framework and ALBERT model for sentiment analysis on IMDB dataset.
 
